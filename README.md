@@ -1,2 +1,1 @@
-# test-ping
-test ping
+my website: https://akkauntypubgmobile.ru
